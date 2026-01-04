@@ -1,16 +1,26 @@
-# cybershield
+# CyberShield 🔐
 
-A new Flutter project.
+CyberShield is a Flutter-based security dashboard application built as part of my Winter Break Portfolio Assignment.
 
-## Getting Started
+## 🚀 Features
+- Dashboard screen with security overview
+- Authentication gate before accessing secure vault
+- Vault screen protected by authentication
+- State management using Provider
+- Clean UI with dark theme
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter
+- Dart
+- Provider (State Management)
+- Git & GitHub
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screens
+- Dashboard
+- Auth Gate
+- Vault
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 How to Run
+```bash
+flutter pub get
+flutter run
